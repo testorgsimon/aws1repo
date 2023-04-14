@@ -44,4 +44,3 @@ jobs:
         run: docker -v
       - name: terraform version
         run: terraform --version
-      - 
